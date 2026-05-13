@@ -2,6 +2,10 @@
 
 Python + Power BI project analyzing employee mental health trends, treatment behaviour, and workplace support factors through interactive dashboards.
 
+Dashboard image
+
+<img width="996" height="549" alt="image" src="https://github.com/user-attachments/assets/ca728a56-9422-4c56-a332-109f3e824a07" />
+
 #**Project Overview**
 
 This project focuses on analyzing employee mental health trends and treatment behavior using workplace survey data. The aim is to identify key factors affecting mental health in organizations and provide actionable insights through data analytics and visualization.The project uses Python for data preprocessing and exploratory data analysis (EDA), and Power BI for creating an interactive dashboard that highlights workplace mental health patterns.
